@@ -2,7 +2,6 @@
 
 int cbinsearch(int *arr, int size, int value) {
   //  поместить сюда реализацию алгоритма
-  return 0; // если ничего не найдено
   int count_value = size + 1;
   int left = 0;
   int right = size - 1;
